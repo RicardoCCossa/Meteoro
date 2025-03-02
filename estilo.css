@@ -5,3 +5,19 @@
 .divs-facilidades {
     width: 325px;
 }
+
+div .cor-branca, .cor-branca{
+    color: #fff;
+}
+
+.amarelo {
+    color: #daff01;
+}
+
+.botao {
+    background-color:  #9353ff;
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
